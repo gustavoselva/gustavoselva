@@ -2,14 +2,14 @@
 
 > Sou Analista de Dados há mais de 3 anos e tenho muito entusiasmo por transformar dados em informações que realmente fazem a diferença. No meu dia a dia, trabalho com a extração, transformação e visualização dos dados, de forma prática, gerando insigths valiosos que ajudam as empresas para tomadas de decisões mais embasadas e eficazes.
 
-![Banner de Boas-Vindas](https://yourgiflink.com) <!-- Exemplo de um GIF de boas-vindas, substitua pelo link do seu próprio GIF -->
+![DataCodeGIF](https://github.com/user-attachments/assets/7894b12d-9403-4ab3-b520-a35fdba245dc)
+<!--![Banner de Boas-Vindas](https://yourgiflink.com)  Exemplo de um GIF de boas-vindas, substitua pelo link do seu próprio GIF -->
 
 ---
-
 ### 🚀 Sobre Mim
 
-🔭 Atualmente estou trabalhando na **Estaf Equipamentos S/A** - Liderando o projeto de Business Intelligence da companhia
-🌱 Estou desenvolvendo minhas skills em **Python, Cloud Computing (AWS/Azure)**  
+🔭 Atualmente estou trabalhando na **Estaf Equipamentos S/A** - liderando o projeto de Business Intelligence.
+💻 Estou desenvolvendo minhas skills em **Python, NoSQL e Cloud Computing (AWS), para agregar conhecimentos de Engenharia de Dados**  
 ⚡ Fun fact: Fanático pelo Sport Clube do Recife - **Verdadeiro Campeão Brasileiro de 1987**! 😄
 
 ---
