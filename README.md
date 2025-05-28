@@ -1,6 +1,6 @@
-# Olá, sou o [Seu Nome]! 👋👨‍💻
+# E aí? Me chamo Gustavo Santos! 👋👨‍💻
 
-> Desenvolvedor apaixonado por tecnologia, programação e aprendizado contínuo.
+> Sou Analista de Dados há mais de 3 anos e tenho muito entusiasmo por transformar dados em informações que realmente fazem a diferença. No meu dia a dia, trabalho com a extração, transformação e visualização dos dados, de forma prática, gerando insigths valiosos que ajudam as empresas para tomadas de decisões mais embasadas e eficazes.
 
 ![Banner de Boas-Vindas](https://yourgiflink.com) <!-- Exemplo de um GIF de boas-vindas, substitua pelo link do seu próprio GIF -->
 
@@ -8,22 +8,19 @@
 
 ### 🚀 Sobre Mim
 
-🔭 Atualmente estou trabalhando em **[Projeto X]**  
-🌱 Estou aprendendo mais sobre **[Tecnologia X]**  
-💬 Pergunte-me sobre **JavaScript**, **React**, **Node.js** e **Python**  
-📫 Como me encontrar: [Seu Email ou Rede Social]  
-⚡ Fun fact: Eu adoro **[algo engraçado sobre você]**! 😄
+🔭 Atualmente estou trabalhando na **Estaf Equipamentos S/A** - Liderando o projeto de Business Intelligence da companhia
+🌱 Estou desenvolvendo minhas skills em **Python, Cloud Computing (AWS/Azure)**  
+⚡ Fun fact: Fanático pelo Sport Clube do Recife - **Verdadeiro Campeão Brasileiro de 1987**! 😄
 
 ---
 
 ### 💻 Tecnologias que uso
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)  
-![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/PowerBI-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)  
+![Python](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![Power BI](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Google Looker Studio](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)  
+![API](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 
 ---
 
@@ -48,18 +45,11 @@
 
 ---
 
-### ✨ Agradeço pela visita ao meu perfil! Fique à vontade para explorar meus projetos e entrar em contato.
+### ✨ Valeu pela visita ao meu perfil! Fique à vontade para explorar meus projetos e entrar em contato.
 
 ![GIF animado](https://yourgiflink.com) <!-- Outro GIF para deixar o README ainda mais interativo -->
 
 ---
-
-### 🌟 Contribuindo
-
-Se você encontrou algo interessante, sinta-se à vontade para abrir uma **issue** ou fazer um **pull request** nos meus repositórios! :rocket:
-
----
-
 ### 🏆 Badges de Conquista
 
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=seu-usuario.perfil)](https://github.com/seu-usuario) <!-- Exibe um contador de visitas -->
