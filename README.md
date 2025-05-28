@@ -1,24 +1,65 @@
-## Hi there 👋
+# Olá, sou o [Seu Nome]! 👋👨‍💻
 
-## Contatos:
-<div>
-<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-<!--
-**gustavoselva/gustavoselva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Desenvolvedor apaixonado por tecnologia, programação e aprendizado contínuo.
 
-Here are some ideas to get you started:
+![Banner de Boas-Vindas](https://yourgiflink.com) <!-- Exemplo de um GIF de boas-vindas, substitua pelo link do seu próprio GIF -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Sobre Mim
+
+🔭 Atualmente estou trabalhando em **[Projeto X]**  
+🌱 Estou aprendendo mais sobre **[Tecnologia X]**  
+💬 Pergunte-me sobre **JavaScript**, **React**, **Node.js** e **Python**  
+📫 Como me encontrar: [Seu Email ou Rede Social]  
+⚡ Fun fact: Eu adoro **[algo engraçado sobre você]**! 😄
+
+---
+
+### 💻 Tecnologias que uso
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)  
+![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&count_private=true&hide_title=true&hide=prs&hide_border=true&theme=radical) <!-- Aqui você coloca o link do seu próprio gráfico de estatísticas do GitHub -->
+
+---
+
+### 🎯 Meus Projetos
+
+- 🔥 [**Projeto 1**](link_para_o_projeto) - Descrição breve do projeto 1.
+- 🌱 [**Projeto 2**](link_para_o_projeto) - Descrição breve do projeto 2.
+- 🚀 [**Projeto 3**](link_para_o_projeto) - Descrição breve do projeto 3.
+
+---
+
+### 💬 Vamos Conversar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu-usuario)
+
+---
+
+### ✨ Agradeço pela visita ao meu perfil! Fique à vontade para explorar meus projetos e entrar em contato.
+
+![GIF animado](https://yourgiflink.com) <!-- Outro GIF para deixar o README ainda mais interativo -->
+
+---
+
+### 🌟 Contribuindo
+
+Se você encontrou algo interessante, sinta-se à vontade para abrir uma **issue** ou fazer um **pull request** nos meus repositórios! :rocket:
+
+---
+
+### 🏆 Badges de Conquista
+
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=seu-usuario.perfil)](https://github.com/seu-usuario) <!-- Exibe um contador de visitas -->
