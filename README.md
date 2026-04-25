@@ -1,40 +1,22 @@
-# E aí? Me chamo Gustavo Santos! 👋👨‍💻
+# E aí, tudo baun? 
 
-> Sou Analista de Dados há mais de 3 anos e tenho muito entusiasmo por transformar dados em informações que realmente fazem a diferença. No meu dia a dia, trabalho com a extração, transformação e visualização dos dados, de forma prática, gerando insigths valiosos que ajudam as empresas para tomadas de decisões mais embasadas e eficazes.
+> Me chamo Gustavo Selva, sou analista de BI, com mais de 4 anos de experiência e tenho muito entusiasmo por transformar dados em informações que realmente fazem a diferença. No meu dia a dia, trabalho com a criação de pipelines de dados e dashboards, gerando insigths valiosos que ajudam as empresas a tomarem decisões com mais confiabilidade e embasamento técnico.
 
 ![DataCodeGIF](https://github.com/user-attachments/assets/7894b12d-9403-4ab3-b520-a35fdba245dc)
 <!--![Banner de Boas-Vindas](https://yourgiflink.com)  Exemplo de um GIF de boas-vindas, substitua pelo link do seu próprio GIF -->
 
 ---
-### 🚀 Sobre Mim
+### Sobre Mim
 
-🔭 Atualmente estou trabalhando na **Estaf Equipamentos S/A** - liderando o projeto de Business Intelligence.
-💻 Estou desenvolvendo minhas skills em **Python, NoSQL e Cloud Computing (AWS), para agregar conhecimentos de Engenharia de Dados**  
+🔭 Atualmente trabalho na **Estaf Equipamentos S/A** - como Analista de BI Sênior, liderando o projeto de Business Intelligence da companhia.
+💻 Estou desenvolvendo minhas skills em **Python, Microsoft Fabric e Cloud Computing (Azure), para agregar conhecimentos de Engenharia de Dados**  
 ⚡ Fun fact: Fanático pelo Sport Clube do Recife - **Verdadeiro Campeão Brasileiro de 1987**! 😄
-
----
-
-### 💻 Tecnologias que uso
-
-![SQL](https://img.shields.io/badge/PowerBI-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)  
-![Python](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![Power BI](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Google Looker Studio](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)  
-![API](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 
 ---
 
 ### 📊 GitHub Stats
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&count_private=true&hide_title=true&hide=prs&hide_border=true&theme=radical) <!-- Aqui você coloca o link do seu próprio gráfico de estatísticas do GitHub -->
-
----
-
-### 🎯 Meus Projetos
-
-- 🔥 [**Projeto 1**](link_para_o_projeto) - Descrição breve do projeto 1.
-- 🌱 [**Projeto 2**](link_para_o_projeto) - Descrição breve do projeto 2.
-- 🚀 [**Projeto 3**](link_para_o_projeto) - Descrição breve do projeto 3.
 
 ---
 
@@ -50,6 +32,3 @@
 ![GIF animado](https://yourgiflink.com) <!-- Outro GIF para deixar o README ainda mais interativo -->
 
 ---
-### 🏆 Badges de Conquista
-
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=seu-usuario.perfil)](https://github.com/seu-usuario) <!-- Exibe um contador de visitas -->
